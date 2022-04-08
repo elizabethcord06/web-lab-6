@@ -1,0 +1,17 @@
+button {
+  width: 150px;
+  height: 40px;
+  border-radius: 6px;
+  margin: 50px;
+}
+.on {
+  color: black;
+  background-color: rgb(88, 146, 173);
+}
+.off {
+  color: white;
+  background-color: rgb(165, 58, 197);
+}
+div {
+  font-family: fantasy;
+}
